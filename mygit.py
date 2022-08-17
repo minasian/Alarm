@@ -10,3 +10,6 @@ def check_input(alarm_time):
     
 alarm_time = check_input(input("Please input alarm time with the follow format 'hh:mm': "))
 
+#
+#
+#
